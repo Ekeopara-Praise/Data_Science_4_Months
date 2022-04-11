@@ -5,7 +5,7 @@ A 4 month class in Data Science, with aim of graduating a ML engineer with stron
 - Python Basics
 - Python for Data Analysis (Numpy, Pandas, Matplotlib etc)
 
-# Month 2: Statistis and Project
+# Month 2: Statistics and Project
 - Basic Statistical Concepts and Application in Python
 - Project 1
 
