@@ -27,5 +27,4 @@ A 4 month class in Data Science, with aim of graduating a ML engineer with stron
 # Reference Books
 1. [Python Projects for Beginners: A Ten-Week Bootcamp Approach to Python Programming by Connor P. Milliken](https://b-ok.africa/book/5397996/6aa85e)
 2. [Practical Statistics for Data Scientist by Peter Bruce, Andrew Bruce](https://b-ok.africa/book/2956293/a93aca)
-3. [Introduction to Machine Learning with Python: A Guide for Data Scientists by Andreas C. Müller, Sarah Guido]()
-4. ..
+3. [Introduction to Machine Learning with Python: A Guide for Data Scientists by Andreas C. Müller, Sarah Guido](https://b-ok.africa/book/2600143/062a5c)
