@@ -2,6 +2,7 @@
 A 4 month class in Data Science, with aim of graduating a ML engineer with strong Data Science background
 
 # Month 1: Python programming 
+- [1.0 Introduction](https://github.com/Ekeopara-Praise/Data_Science_4_Months/tree/master/Month_1_Python_Programming/1.0%20Introduction)
 - Python Basics
 - Python for Data Analysis (Numpy, Pandas, Matplotlib etc)
 
