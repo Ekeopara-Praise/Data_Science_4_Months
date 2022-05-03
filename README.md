@@ -4,7 +4,8 @@ A 4 month class in Data Science, with aim of graduating a ML engineer with stron
 # Month 1: Python programming 
 - [1.0 Introduction](https://github.com/Ekeopara-Praise/Data_Science_4_Months/tree/master/Month_1_Python_Programming/1.0%20Introduction)
 - [1.1 Python Basics](https://github.com/Ekeopara-Praise/Data_Science_4_Months/tree/master/Month_1_Python_Programming/1.1%20Python%20Basics)
-- Python for Data Analysis (Numpy, Pandas, Matplotlib etc)
+- [1.2 Project I ](https://github.com/Ekeopara-Praise/Data_Science_4_Months/tree/master/Month_1_Python_Programming/1.2%20Project%20I)
+- [1.3.1 Python for Data Analysis (Numpy)](https://github.com/Ekeopara-Praise/Data_Science_4_Months/tree/master/Month_1_Python_Programming/1.3%20Python%20for%20Data%20Analysis)
 
 # Month 2: Statistics and Project
 - Basic Statistical Concepts and Application in Python
