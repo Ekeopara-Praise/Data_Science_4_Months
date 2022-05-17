@@ -11,7 +11,7 @@ A 4 month class in Data Science, with aim of graduating a ML engineer with stron
 
 # Month 2: Statistics and Project
 - [2.0 Statistics One: Basic Concepts & Fundamentals](https://github.com/Ekeopara-Praise/Data_Science_4_Months/blob/master/Month_2_Statistics_and_Projects/STAT101_Basic_Concepts.ipynb)
-- ...
+- [2.1 Statistics Two: Descriptive Statistics and Projects](https://github.com/Ekeopara-Praise/Data_Science_4_Months/blob/master/Month_2_Statistics_and_Projects/STAT102_Descriptive_Statistics.ipynb)
 
 # Month 3: Machine Learning I
 - Regression Algorithms 
