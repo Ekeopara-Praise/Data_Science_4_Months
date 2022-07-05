@@ -7,7 +7,7 @@ A 4 month class in Data Science, with aim of graduating a ML engineer with stron
 - [1.2.1 Python for Data Analysis (Numpy)](https://github.com/Ekeopara-Praise/Data_Science_4_Months/tree/master/Month_1_Python_Programming/1.3%20Python%20for%20Data%20Analysis)
 - [1.2.2 Python for Data Analysis (Pandas)](https://github.com/Ekeopara-Praise/Data_Science_4_Months/blob/master/Month_1_Python_Programming/1.3%20Python%20for%20Data%20Analysis/Data_Analysis_Pandas.ipynb)
 - [1.2.3 Python for Data Analysis (Matplotlib)](https://github.com/Ekeopara-Praise/Data_Science_4_Months/blob/master/Month_1_Python_Programming/1.3%20Python%20for%20Data%20Analysis/Data_Analysis_Matplotlib.ipynb)
-- [1.2 Project I: PyExcel Automation](https://github.com/Ekeopara-Praise/Data_Science_4_Months/tree/master/Month_1_Python_Programming/1.2%20Project%20I)
+- [1.3 Project I: PyExcel Automation](https://github.com/Ekeopara-Praise/Data_Science_4_Months/tree/master/Month_1_Python_Programming/1.2%20Project%20I)
 
 # Month 2: Statistics and Project
 - [2.0 Statistics One: Basic Concepts & Fundamentals](https://github.com/Ekeopara-Praise/Data_Science_4_Months/blob/master/Month_2_Statistics_and_Projects/STAT101_Basic_Concepts.ipynb)
