@@ -4,14 +4,16 @@ A 4 month class in Data Science, with aim of graduating a ML engineer with stron
 # Month 1: Python programming 
 - [1.0 Introduction](https://github.com/Ekeopara-Praise/Data_Science_4_Months/tree/master/Month_1_Python_Programming/1.0%20Introduction)
 - [1.1 Python Basics](https://github.com/Ekeopara-Praise/Data_Science_4_Months/tree/master/Month_1_Python_Programming/1.1%20Python%20Basics)
-- [1.2 Project I ](https://github.com/Ekeopara-Praise/Data_Science_4_Months/tree/master/Month_1_Python_Programming/1.2%20Project%20I)
-- [1.3.1 Python for Data Analysis (Numpy)](https://github.com/Ekeopara-Praise/Data_Science_4_Months/tree/master/Month_1_Python_Programming/1.3%20Python%20for%20Data%20Analysis)
-- [1.3.2 Python for Data Analysis (Pandas)](https://github.com/Ekeopara-Praise/Data_Science_4_Months/blob/master/Month_1_Python_Programming/1.3%20Python%20for%20Data%20Analysis/Data_Analysis_Pandas.ipynb)
-- [1.3.3 Python for Data Analysis (Matplotlib)](https://github.com/Ekeopara-Praise/Data_Science_4_Months/blob/master/Month_1_Python_Programming/1.3%20Python%20for%20Data%20Analysis/Data_Analysis_Matplotlib.ipynb)
+- [1.2.1 Python for Data Analysis (Numpy)](https://github.com/Ekeopara-Praise/Data_Science_4_Months/tree/master/Month_1_Python_Programming/1.3%20Python%20for%20Data%20Analysis)
+- [1.2.2 Python for Data Analysis (Pandas)](https://github.com/Ekeopara-Praise/Data_Science_4_Months/blob/master/Month_1_Python_Programming/1.3%20Python%20for%20Data%20Analysis/Data_Analysis_Pandas.ipynb)
+- [1.2.3 Python for Data Analysis (Matplotlib)](https://github.com/Ekeopara-Praise/Data_Science_4_Months/blob/master/Month_1_Python_Programming/1.3%20Python%20for%20Data%20Analysis/Data_Analysis_Matplotlib.ipynb)
+- [1.2 Project I: PyExcel Automation](https://github.com/Ekeopara-Praise/Data_Science_4_Months/tree/master/Month_1_Python_Programming/1.2%20Project%20I)
 
 # Month 2: Statistics and Project
 - [2.0 Statistics One: Basic Concepts & Fundamentals](https://github.com/Ekeopara-Praise/Data_Science_4_Months/blob/master/Month_2_Statistics_and_Projects/STAT101_Basic_Concepts.ipynb)
 - [2.1 Statistics Two: Descriptive Statistics and Projects](https://github.com/Ekeopara-Praise/Data_Science_4_Months/blob/master/Month_2_Statistics_and_Projects/STAT102_Descriptive_Statistics.ipynb)
+- [2.2 Practical Statistics](https://github.com/Ekeopara-Praise/Data_Science_4_Months/blob/master/Month_2_Statistics_and_Projects/Practical_Statistics.ipynb)
+- 2.3 Project II: Well log Analysis in Python - 65%
 
 # Month 3: Machine Learning I
 - Regression Algorithms 
